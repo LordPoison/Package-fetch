@@ -1,4 +1,4 @@
-# Package fetch
+# Package Fetch
 
 -Type make to compile and run all the files. 
 -Type make filename (with lower case) to run just that file (e.g. scenario1)
